@@ -8,9 +8,9 @@
 <h1>Meu Primeiro site!</h1>
 <h2>Um subtítulo<h2>
 <h3>Teste h3</h3>
-<h4>Teste h3</h4>
-<h5>Teste h3</h5>
-<h6>Teste h3</h6>
+<h4>Teste h4</h4>
+<h5>Teste h5</h5>
+<h6>Teste h6</h6>
 
 <section>
 <div>
